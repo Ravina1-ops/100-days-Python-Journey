@@ -1,0 +1,7 @@
+print("Hello Ravina")
+print(5)
+print("-----Print A Poem using Print function-----")
+print("Early to Bed")
+print("Early to rise")
+print("Makes a person")
+print("Healthy, Wealthy and Wise")
