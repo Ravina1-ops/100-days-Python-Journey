@@ -10,7 +10,9 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Variables and Data types
 - [x] Calculator using Operators 
 - [x] Typecasting , Input from user 
-- []  String(working)
+- [x] Strings basic , string slicing
+- [x] String Methods 
+- [x] Conditional Statements (If else)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
