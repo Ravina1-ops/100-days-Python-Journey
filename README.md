@@ -13,6 +13,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Strings basic , string slicing
 - [x] String Methods 
 - [x] Conditional Statements (If else)
+- [x] Loops (for,while)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
