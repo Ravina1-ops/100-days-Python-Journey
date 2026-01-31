@@ -15,6 +15,8 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Conditional Statements (If else)
 - [x] Loops (for,while)
 - [x] Functions 
+- [x] List and its methods
+- [x] Tuple and its operation
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
