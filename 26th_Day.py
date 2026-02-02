@@ -23,3 +23,7 @@ square2(7)
 print(square2.__doc__)
 # iski docstring none hogi kyoki ye just after func nhi likhi hai
 
+
+# pep 8 = python enhancement proposal
+# it provide guidelines and bes practice to write python code
+# import this = poem by tim peters Zen of python print hoga
