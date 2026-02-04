@@ -18,6 +18,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] List and its methods
 - [x] Tuple and its operation
 - [x] f-string, Doc string , pep8
+- [x] Recursion 
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
