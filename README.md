@@ -21,7 +21,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Recursion 
 - [x] set
 - [x] Dictonary and its method
-
+- [x] Loops with else condition
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **IDE:** VS Code (Visual Studio Code)
