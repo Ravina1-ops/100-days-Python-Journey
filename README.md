@@ -22,7 +22,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] set
 - [x] Dictonary and its method
 - [x] Loops with else condition
-- [x] Exception Handling
+- [x] Exception Handling with finally keyword
 - [x] continue......
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
