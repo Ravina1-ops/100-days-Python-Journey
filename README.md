@@ -6,6 +6,7 @@ Welcome to my daily log of the **100 Days of Code** challenge in Python! This re
 To build a strong foundation in Python and problem-solving logic over 100 consecutive days.
 
 ### 📈 Progress Tracking
+
 - [x] Basics: Print , Comments , Escape Sequencer
 - [x] Variables and Data types
 - [x] Calculator using Operators 
@@ -26,6 +27,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
+
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **IDE:** VS Code (Visual Studio Code)
