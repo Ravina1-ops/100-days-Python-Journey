@@ -15,7 +15,8 @@ in lower words. '''
 
 import random
 count = 0
-print("---Welcome to the Dice Roller Game---")
+six_count = 0
+print("\n---Welcome to the Dice Roller Game---")
 while True:
  a = input("Roll the dice? (y/n): ").lower()
 
@@ -23,7 +24,9 @@ while True:
         die1 = random.randint(1,6)
         die2 = random.randint(1,6)
         count += 1
-        print(f'(You rolled a {die1} and a {die2})')
+        print(f'\n(You rolled a {die1} and a {die2})')
+        if die1 == 6 and die2 ==6:
+             print("Lucky! You got a six on both dice.")
  
  elif a == 'n':
         print("Thanks for playing!")

@@ -23,7 +23,9 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Dictonary and its method
 - [x] Loops with else condition
 - [x] Exception Handling with finally keyword
-- [x] Continue......
+
+* **Mini Projects:**
+- [x] Rolling the dice game 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **IDE:** VS Code (Visual Studio Code)
