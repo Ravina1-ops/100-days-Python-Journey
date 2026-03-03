@@ -23,7 +23,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] set
 - [x] Dictonary and its method
 - [x] Loops with else condition
-- [x] Exception Handling with finally keyword
+- [x] Exception Handling with finally keyword and raising custom errors
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
