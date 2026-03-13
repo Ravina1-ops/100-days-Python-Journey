@@ -25,7 +25,7 @@ GOAL:
 - Print the final result.
 '''
 
-# Code : 
+# Code by me  : 
 import random
 choice = input("What you want (Code (c) or Decode(dc)): ").lower()
 message = input("Enter your word: ")
@@ -46,7 +46,7 @@ elif choice == 'dc':
     if len(word) >= 3:
       temp = word[3:-3]
       if len(temp) > 0:
-       stnew = temp[-1] + temp[-1]
+       stnew = temp[-1] + temp[:-1]
        new_words.append(stnew)
       else:
         new_words.append(word)
@@ -59,43 +59,43 @@ else:
 
 # Exercise 4: Secret Code Language - Solution by CodeWithHarry
 
-st = input("Enter message: ")
-words = st.split(" ")
-coding = input("1 for Coding or 0 for Decoding: ")
-coding = True if (coding == "1") else False
+# st = input("Enter message: ")
+# words = st.split(" ")
+# coding = input("1 for Coding or 0 for Decoding: ")
+# coding = True if (coding == "1") else False
 
-print(coding)
+# print(coding)
 
-if(coding):
-    nwords = []
-    for word in words:
-        if(len(word) >= 3):
-            # Rule for Coding:
-            # 1. Remove first letter and append it at the end
-            # 2. Append 3 random characters at the start and the end
-            r1 = "dsf" # In the video, Harry uses hardcoded strings 
-            r2 = "jkr" # but suggests using the random module as an upgrade
-            stnew = r1 + word[1:] + word[0] + r2
-            nwords.append(stnew)
-        else:
-            # If word length < 3, simply reverse the string
-            nwords.append(word[::-1])
-    print(" ".join(nwords))
+# if(coding):
+#     nwords = []
+#     for word in words:
+#         if(len(word) >= 3):
+#             # Rule for Coding:
+#             # 1. Remove first letter and append it at the end
+#             # 2. Append 3 random characters at the start and the end
+#             r1 = "dsf" # In the video, Harry uses hardcoded strings 
+#             r2 = "jkr" # but suggests using the random module as an upgrade
+#             stnew = r1 + word[1:] + word[0] + r2
+#             nwords.append(stnew)
+#         else:
+#             # If word length < 3, simply reverse the string
+#             nwords.append(word[::-1])
+#     print(" ".join(nwords))
 
-else:
-    nwords = []
-    for word in words:
-        if(len(word) >= 3):
-            # Rule for Decoding:
-            # 1. Remove 3 random characters from start and end
-            # 2. Remove the last letter and append it to the beginning
-            stnew = word[3:-3]
-            stnew = stnew[-1] + stnew[:-1]
-            nwords.append(stnew)
-        else:
-            # Reverse the string back
-            nwords.append(word[::-1])
-    print(" ".join(nwords))
+# else:
+#     nwords = []
+#     for word in words:
+#         if(len(word) >= 3):
+#             # Rule for Decoding:
+#             # 1. Remove 3 random characters from start and end
+#             # 2. Remove the last letter and append it to the beginning
+#             stnew = word[3:-3]
+#             stnew = stnew[-1] + stnew[:-1]
+#             nwords.append(stnew)
+#         else:
+#             # Reverse the string back
+#             nwords.append(word[::-1])
+#     print(" ".join(nwords))
 
   
 
