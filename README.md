@@ -25,6 +25,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Loops with else condition
 - [x] Exception Handling with finally keyword and raising custom errors
 - [x] File IO and with statement
+- [x]
 - [x] 4th exercise done
 
 * **Mini Projects:**
