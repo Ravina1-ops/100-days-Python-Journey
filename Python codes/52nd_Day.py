@@ -15,7 +15,7 @@ def math():
     y = 9
     print(f"x = {x} and y = {y} Add = {x+y}")
 
-@greet
+
 def mul():
     a = 5
     b = 4
@@ -23,4 +23,5 @@ def mul():
 
 
 math()
-mul()
+greet(mul)()
+# 2nd method of decorators calling
