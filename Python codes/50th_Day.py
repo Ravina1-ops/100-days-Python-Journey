@@ -4,6 +4,7 @@ class Data:
     occupation = "Student"
     def info(self):
         print(f"HI I'm {self.name} and i am a {self.occupation}")
+        # self ka matlab ki kis object par ye method call ho rha hai
 a = Data()
 a.info()
 a.name = "Naksh"
