@@ -28,3 +28,37 @@ TECHNICAL TOPICS TO USE:
 '''
 
 # Your code starts here...
+import random
+
+def check(comp, user):
+  # Returns 1 if User wins, -1 if Computer wins, 0 if Draw
+  if comp == user:
+    return 0
+    
+  if(comp == 0 and user == 1): # comp: Snake, user: Water
+    return -1
+    
+  if(comp == 1 and user == 2): # comp: Water, user: Gun
+    return -1
+    
+  if(comp == 2 and user == 0): # comp: Gun, user: Snake
+    return -1
+
+  # If none of the above are true, user must have won
+  return 1
+
+# 0 for Snake, 1 for Water, 2 for Gun
+comp = random.randint(0, 2)
+user = int(input("0 for Snake, 1 for Water, 2 for Gun: \n"))
+
+score = check(comp, user)
+
+print("You chose: ", user)
+print("Computer chose: ", comp)
+
+if(score == 0):
+  print("Its a draw")
+elif (score == 1):
+  print("You Won")
+else:
+  print("You Lose")
