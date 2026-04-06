@@ -28,7 +28,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] FIle Read and Readlines 
 - [x] 4th exercise done
 - [x] 5th exercise snkae water gun game done
-- [x] Inheritance (current focus)
+- [x] Inheritance intro
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
