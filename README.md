@@ -28,6 +28,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] FIle Read and Readlines 
 - [x] 4th exercise done
 - [x] Precision FIle Handling
+- [x] lambda function
 - [x] 5th exercise snake water gun game done
 - [x] Inheritance intro
 - [x] Access modifiers 
