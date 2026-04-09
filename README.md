@@ -34,7 +34,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] 5th exercise snake water gun game done
 - [x] Classes and objects
 - [x] Constructor in class
-- [x] Decorators in python
+- [x] Decorators in python with args and kwargs with logging example
 - [x] Inheritance intro
 - [x] Access modifiers 
 
