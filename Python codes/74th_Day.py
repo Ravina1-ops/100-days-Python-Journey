@@ -1,4 +1,4 @@
-# - Command Line Utilities
+# Command Line Utilities
 import argparse
 
 parser = argparse.ArgumentParser()
