@@ -39,6 +39,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Inheritance intro
 - [x] Access modifiers 
 - [x] Exercise 8th 
+- [x] Time module
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
