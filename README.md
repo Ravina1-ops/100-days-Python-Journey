@@ -38,6 +38,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Getters and setters in python
 - [x] Inheritance intro
 - [x] Access modifiers 
+- [x] Exercise 8th 
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
