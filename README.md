@@ -36,7 +36,8 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Constructor in class
 - [x] Decorators in python with args and kwargs with logging example
 - [x] Getters and setters in python
-- [x] Inheritance intro
+- [x] Inheritance intro 
+- [x] Single, Multiple, Multilevel, Hybrid and hrircachal inheritance
 - [x] Access modifiers 
 - [x] Exercise 8th 
 - [x] Time module
