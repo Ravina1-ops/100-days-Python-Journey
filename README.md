@@ -42,6 +42,8 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Exercise 8th merge pdf and 9th exercise shoutout to everyone
 - [x] Time module
 - [x] Command line utilities
+- [x]
+
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
