@@ -1,34 +1,13 @@
-Create a function that takes a list of numbers and return the number that's unique.
-87/95
-localhost:8888/notebooks/Piush Kumar Sharma/Basic Python Program.ipynb
-11/26/23, 4:53 AM
-Basic Python Program - Jupyter Notebook
-Examples
-unique([3, 3, 3, 7, 3, 3]) 
-➞ 7
-unique([0, 0, 0.77, 0, 0]) 
-➞ 0.77
-unique([0, 1, 1, 1, 1, 1, 1, 1]) 
-Notes
-➞ 0
-Test cases will always have exactly one unique number while all others are the same.
-In [223]:
-In [224]:
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
+# Create a function that takes a list of numbers and return the number that's unique.
+# Basic Python Program - Jupyter Notebook
+# Examples
+# unique([3, 3, 3, 7, 3, 3]) 
+# ➞ 7
+# unique([0, 0, 0.77, 0, 0]) 
+# ➞ 0.77
+# unique([0, 1, 1, 1, 1, 1, 1, 1]) 
+# ➞ 0
+
 def unique(numbers):
 # Use a dictionary to count occurrences of each number
 count_dict = {}
