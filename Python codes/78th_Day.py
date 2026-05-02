@@ -21,4 +21,6 @@ def mean(n):
     return int(digit_mean) 
 
 
-mean(42)
+print(mean(42))
+print(mean(12345))
+print(mean(666))
