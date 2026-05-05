@@ -10,8 +10,8 @@
 # ➞ [1, 2, 3]
 
 def setify(lst):
-unique_set = set(sorted(lst))
+     unique_set = set(sorted(lst))
 # Convert the set back to a list and return it
-return list(unique_set)
-1
+     return list(unique_set)
+
 setify([1, 3, 3, 5, 5])
