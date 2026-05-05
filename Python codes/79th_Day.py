@@ -14,4 +14,4 @@ def setify(lst):
 # Convert the set back to a list and return it
      return list(unique_set)
 
-setify([1, 3, 3, 5, 5])
+print(setify([1, 3, 3, 5, 5]))
