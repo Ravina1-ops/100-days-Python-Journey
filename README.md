@@ -43,6 +43,7 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Time module
 - [x] Command line utilities
 - [x] Cheat Sheet of python 
+- [x] Sorting list and remove duplicates
 
 * **Mini Projects:**
 - [x] Rolling the dice game 
