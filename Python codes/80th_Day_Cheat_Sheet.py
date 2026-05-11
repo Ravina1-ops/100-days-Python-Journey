@@ -37,3 +37,29 @@
 # Tuple
 # Unchangeable collection of objects
 # tup = (1, 3.12, False, "Hi")
+
+
+List
+Changeable collection of objects
+my_collection = [1, 1, 3.12, False, "Hi"]
+List Operations
+# returns the length of a list
+len(my_collection)
+# Add multiple items to a list
+my_collection.extend(["More", "Items"])
+# Add a single item to a list
+my_collection.append("Single")
+# Delete the object of a list at a specified index
+del(my_collection[2])
+# Clone a list
+clone = my_collection[:]
+# Concatenate two lists
+my_collection_2 = ["a", "b", "c"]
+my_collection_3 = my_collection + my_collection_2
+# Calculate the sum of a list of ints or floats
+number_collection = [1,2,3,4.5]
+sum(number_collection)
+# Check if an item is in a list, returns Boolean
+item in my_collection
+# Check if an item is not in a list, returns Boolean
+item not in my_collection
