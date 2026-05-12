@@ -1,14 +1,6 @@
-Define a class with a generator which can iterate the numbers, which are divisible by
-7, between a given range 0 and n.
-In [42]:
-1
-2
-3
-4
-5
-6
-7
-8
+# Define a class with a generator which can iterate the numbers, which are divisible by
+# 7, between a given range 0 and n.
+
 class DivisibleBySeven:
 def __init__(self,n):
 self.n = n
