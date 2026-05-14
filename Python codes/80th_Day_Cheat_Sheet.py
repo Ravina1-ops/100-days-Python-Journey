@@ -96,3 +96,9 @@ Accessing a subset of data from a string, list, or tuple using element numbers f
 my_string[start:stop]
 my_collection[start:stop]
 my_tup[start:stop] '''
+
+Error Types
+IndexError - When an index is out of rang
+NameError - When a variable name is not foun
+SyntaxError - When there is an error with how the code is written
+ZeroDivisionError - When your code tries to divide by zero
