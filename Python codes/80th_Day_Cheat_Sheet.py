@@ -65,4 +65,34 @@
 # item not in my_collection
 
 
-''' '''
+''' Set
+Unordered collection of unique objects
+a = {100, 3.12, False, "Bye"}
+b = {100, 3.12, "Welcome"}
+Set Operations
+# Convert a list to a set
+my_set = set([1,1,2,3])
+# Add an item to the set
+a.add(4)
+# Remove an item from a set
+a.remove("Bye")
+# Returns set a minus b
+a.difference(b)
+# Returns intersection of set a and b
+a.intersection(b)
+# Returns the union of set a and b
+a.union(b)
+# Returns True if a is a subset of b, false otherwise
+a.issubset(b)
+# Returns True if a is a superset of b, false otherwise
+a.issuperset(b)
+Indexing
+Accessing data from a string, list, or tuple using an element number
+my_string[element_number]
+my_collection[element_number]
+my_tup[element_number]
+Slicing
+Accessing a subset of data from a string, list, or tuple using element numbers from start to stop -1
+my_string[start:stop]
+my_collection[start:stop]
+my_tup[start:stop] '''
