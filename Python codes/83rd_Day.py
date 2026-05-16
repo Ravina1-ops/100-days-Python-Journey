@@ -17,6 +17,6 @@ def is_happy_number(num):
 # Test the function with a number
 num = int(input("Enter a number: "))
 if is_happy_number(num):
-print(f"{num} is a Happy Number")
+    print(f"{num} is a Happy Number")
 else:
-print(f"{num} is not a Happy Number")
+   print(f"{num} is not a Happy Number")
