@@ -1,34 +1,5 @@
-Write a Python Program to Transpose a Matrix.
-25/95
-localhost:8888/notebooks/Piush Kumar Sharma/Basic Python Program.ipynb
-11/26/23, 4:53 AM
-Basic Python Program - Jupyter Notebook
-In [3]:
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
+# Write a Python Program to Transpose a Matrix.
+
 # Function to transpose a matrix
 def transpose_matrix(matrix):
 rows, cols = len(matrix), len(matrix[0])
