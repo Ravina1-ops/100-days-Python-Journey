@@ -113,3 +113,29 @@ ZeroDivisionError - When your code tries to divide by zero'''
 # my_string[start:stop]
 # my_collection[start:stop]
 # my_tup[start:stop]
+
+Working with Files
+Reading a File
+# Opens a file in read mode
+file = open(file_name, "r")
+# Returns the file name
+file.name
+# Returns the mode the file was opened in
+file.mode
+# Reads the contents of a file
+file.read()
+# Reads a certain number of characters of a file
+file.read(characters)
+# Read a single line of a file
+file.readline()
+# Read all the lines of a file and stores it in a list
+file.readlines()
+# Closes a file
+file.close()
+Writing to a File
+# Opens a file in write mode
+file = open(file_name, "w")
+# Writes content to a file
+file.write(content)
+# Adds content to the end of a file
+file.append(content)
