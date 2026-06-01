@@ -139,3 +139,17 @@ ZeroDivisionError - When your code tries to divide by zero'''
 # file.write(content)
 # # Adds content to the end of a file
 # file.append(content)
+
+""" Objects and Classes
+# Creating a class
+class class_name:
+     def __init__(self. optional_parameter_1, optional_parameter_2):
+          self.attribute_1 = optional_parameter_1
+          self.attribute_2 = optional_parameter_2
+     def method_name(self, optional_parameter_1):
+          # Code to execute
+          return optional_output
+# Create an instance of a class
+object = class_name(parameter_1, parameter_2)
+# Calling an object method
+object.method_name(parameter_3)"""
