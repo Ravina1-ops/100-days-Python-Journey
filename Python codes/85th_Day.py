@@ -13,4 +13,5 @@ for sub in subjects:
             sentence = f"{sub} {vrb} {obj}"
             sentences.append(sentence)
 
-
+for sentence in sentences:
+    print(sentence)
