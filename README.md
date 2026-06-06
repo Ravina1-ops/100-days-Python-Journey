@@ -45,6 +45,8 @@ To build a strong foundation in Python and problem-solving logic over 100 consec
 - [x] Cheat Sheet of python 
 - [x] Sorting list and remove duplicates
 
+Revision 
+
 * **Mini Projects:**
 - [x] Rolling the dice game 
 - [x] Guess the Secret number game
